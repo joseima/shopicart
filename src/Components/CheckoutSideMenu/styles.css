@@ -1,0 +1,9 @@
+.checkout-side {
+    width: 360px;
+    height: calc(100vh - 90px);
+    top:80px;
+}
+.imagenCheckout {
+    margin: 0px auto;
+    height: 200px;
+}
