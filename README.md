@@ -1,6 +1,8 @@
 # SHOPI
 React + Vite * Tailwinds.css
 
+https://shopicart-react.netlify.app/
+
 /----------------
 npm create vite@latest  --template 
 react
