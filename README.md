@@ -3,7 +3,9 @@
 Landing to temporal promotions for specific clients,  synchronized with client products catalog and clients db.
 
 NOTE: CLIENT LOGIN CONDITIONAL RENDER, To see the mockup :
+
 1- Go to Sign up page
+
 2- Add a fake name, email and pass, like "user, mail@web.com, 123". 
 This will be remembered with a signed in flag in local storge. 
 
