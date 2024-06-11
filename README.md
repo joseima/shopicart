@@ -1,14 +1,23 @@
-# SHOPI
-React + Vite * Tailwinds.css
+<h1>Shopi promotions landing</h1>
 
-https://shopicart-react.netlify.app/
+Landing to temporal promotions for specific clients,  synchronized with client products catalog and clients db.
 
-/----------------
-npm create vite@latest  --template 
-react
-javascript
+NOTE: CLIENT LOGIN CONDITIONAL RENDER, To see the mockup :
+1- Go to Sign up page
+2- Add a fake name, email and pass, like "user, mail@web.com, 123". 
+This will be remembered with a signed in flag in local storge. 
 
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+<a href="https://shopicart-react.netlify.app/" target="_blank">Mockup deploy here</a>
 
-npm run dev
+<h5>What this have</h5>
+
+# React + TypeScript + Vite
+
+<ul>
+<li>State mnged with useContext</li>
+<li>Coding static testing via Eslint, Pretier and  Standrd.js</li>
+<li>CSS with Tailwindcss</li>
+<li>Navigation with React Router</li>
+</ul>
+
+
