@@ -16,7 +16,7 @@ This will be remembered with a signed in flag in local storge.
 # React + TypeScript + Vite
 
 <ul>
-<li>State mnged with useContext</li>
+<li>App state manged with useContext</li>
 <li>Coding static testing via Eslint, Pretier and  Standrd.js</li>
 <li>CSS with Tailwindcss</li>
 <li>Navigation with React Router</li>
